@@ -1,0 +1,19 @@
+body{
+    background:#63d63c;
+    padding:0;
+    margin:0;
+}
+.wrapper{
+    background: #63d63c;
+    width:1000px;
+    margin:0 auto;
+    padding:0;
+}
+.box{
+    position:relative;
+    width:100px;
+    height:100px;
+    background:#333;
+    z-index: 1;
+    float:left;
+}
